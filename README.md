@@ -9,7 +9,7 @@ financeiras devido a alta quantidade de animais e a falta de espaço. Em contrap
 # A aplicação consiste das seguintes funcionalidades
 
 - Área para o cadastro de novos pets
-<p><img width="40" src="frontend/public/to_readme/media.gif" /></p>
+<p><img src="frontend/public/to_readme/media.gif" /></p>
 
 
 
@@ -33,7 +33,7 @@ Além disto é bom ter um editor de texto para para trabalhar com o código font
 # Tecnologias Usadas no projeto
 
 Para a criação do frontend da aplicação foram usadas as seguintes tecnologias:
-<p>[Typescript](https://www.typescriptlang.org/)</p>
+[Typescript](https://www.typescriptlang.org/)
 <p>[ReactJS](https://pt-br.reactjs.org/)</p>
 <p>[Next.js](https://nextjs.org/)</p>
 
