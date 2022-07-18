@@ -33,13 +33,18 @@ Além disto é bom ter um editor de texto para para trabalhar com o código font
 # Tecnologias Usadas no projeto
 
 Para a criação do frontend da aplicação foram usadas as seguintes tecnologias:
-[Typescript](https://www.typescriptlang.org/)
-<p>[ReactJS](https://pt-br.reactjs.org/)</p>
-<p>[Next.js](https://nextjs.org/)</p>
+
+<img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">[Typescript](https://www.typescriptlang.org/)
+
+<img align="center" alt="Typescript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />[ReactJS](https://pt-br.reactjs.org/)
+
+<img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />[Next.js](https://nextjs.org/)
 
 E para a criação do backend (API) foram usadas as seguintes:
-<p>[Laravel](https://laravel.com/)</p>
-<p>[SQLite](https://www.sqlite.org/)</p>
+
+<img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />[Laravel](https://laravel.com/)
+
+<img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />[SQLite](https://www.sqlite.org/)
 
 # Configurações do projeto
 - Na pasta 'adote-um-pet/backend' criar um arquivo .env seguindo o arquivo de exemplo '.env.example' e excluir as variáveis:
